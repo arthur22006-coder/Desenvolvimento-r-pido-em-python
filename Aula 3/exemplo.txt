@@ -1,0 +1,1 @@
+Exemplo de uso dos métodos seek() e tell() em Python
